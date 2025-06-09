@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdal\\OneDrive\\Desktop\\basketball\\New folder\\New folder\\basketball-AR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08E1BB0A-75D6-E790-E3EE-8BE8275135FE}|Assembly-CSharp.csproj|c:\\users\\abdal\\onedrive\\desktop\\basketball\\new folder\\new folder\\basketball-ar\\assets\\throwball\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E1BB0A-75D6-E790-E3EE-8BE8275135FE}|Assembly-CSharp.csproj|solutionrelative:assets\\throwball\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08E1BB0A-75D6-E790-E3EE-8BE8275135FE}|Assembly-CSharp.csproj|c:\\users\\abdal\\onedrive\\desktop\\basketball\\new folder\\new folder\\basketball-ar\\assets\\throwball\\scripts\\bollcontrolscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08E1BB0A-75D6-E790-E3EE-8BE8275135FE}|Assembly-CSharp.csproj|solutionrelative:assets\\throwball\\scripts\\bollcontrolscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdal\\OneDrive\\Desktop\\basketball\\New folder\\New folder\\basketball-AR\\Assets\\ThrowBall\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ThrowBall\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\abdal\\OneDrive\\Desktop\\basketball\\New folder\\New folder\\basketball-AR\\Assets\\ThrowBall\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\ThrowBall\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:19:14.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bollControlScript.cs",
+              "DocumentMoniker": "C:\\Users\\abdal\\OneDrive\\Desktop\\basketball\\New folder\\New folder\\basketball-AR\\Assets\\ThrowBall\\Scripts\\bollControlScript.cs",
+              "RelativeDocumentMoniker": "Assets\\ThrowBall\\Scripts\\bollControlScript.cs",
+              "ToolTip": "C:\\Users\\abdal\\OneDrive\\Desktop\\basketball\\New folder\\New folder\\basketball-AR\\Assets\\ThrowBall\\Scripts\\bollControlScript.cs",
+              "RelativeToolTip": "Assets\\ThrowBall\\Scripts\\bollControlScript.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:33:40.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
