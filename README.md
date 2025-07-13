@@ -1,69 +1,60 @@
-🏀 AR Basketball Game – Unity + AR Foundation
-This is a mobile Augmented Reality (AR) basketball game built using Unity and AR Foundation. The game allows users to place a virtual 3D basketball hoop in their real-world environment using surface detection, and then shoot basketballs at it using intuitive touch-based controls.
+# 🏀 AR Basketball Game – Unity + AR Foundation
 
-📱 Gameplay Overview
-The player scans a flat surface using the mobile camera (AR plane detection).
+An interactive mobile **Augmented Reality (AR)** basketball game built with **Unity** and **AR Foundation**. This project allows players to place a 3D basketball hoop in their real environment and shoot virtual balls at it using intuitive drag-and-release controls.
 
-Once a surface is detected, a 3D basketball hoop appears in that space.
+---
 
-The player taps and drags a virtual basketball on the screen to aim and apply shooting force.
+## 📱 Gameplay Overview
 
-The shot is calculated using Unity physics, simulating a realistic arc.
+- Uses AR plane detection to **scan real-world horizontal surfaces**.
+- Instantly **places a 3D basketball hoop** on the detected surface.
+- Players **drag the basketball** to set the direction and force.
+- Upon release, the ball is **launched using Unity's physics system**.
+- **Points are awarded** when the ball successfully passes through the hoop.
 
-If the ball passes through the hoop collider, the player scores a point.
+---
 
-⚙️ Features & Mechanics
-Feature	Description
-Platform	Mobile (Android / iOS)
-Engine	Unity
-AR Framework	AR Foundation (cross-platform support for ARCore / ARKit)
-Surface Detection	Detects real-world horizontal planes to place the hoop
-Ball Physics	Uses RigidBody and Force mechanics for natural ball movement
-Drag and Shoot Input	Player controls the direction and strength of the shot via drag gestures
-Scoring Logic	Trigger-based scoring system when ball passes through the hoop
-3D Models	Hoop and ball models sourced from free 3D model libraries
+## 🎮 Controls
 
-🎮 Controls
-Tap and Hold on the ball to begin aiming.
+- **Tap and hold** the basketball to begin aiming.
+- **Drag backward** to adjust shot strength and direction.
+- **Release** to shoot.
 
-Drag Backward to adjust power and direction.
+---
 
-Release to shoot the ball.
+## ⚙️ Features
 
-🧰 Technologies Used
-Unity 2021+
+- ✅ Real-time AR environment scanning (via AR Foundation)
+- ✅ Drag-and-shoot physics-based controls
+- ✅ 3D hoop and basketball assets
+- ✅ Score detection using trigger colliders
+- ✅ Works on both Android (ARCore) and iOS (ARKit)
 
-AR Foundation
+---
 
-ARCore / ARKit
+## 🧰 Tech Stack
 
-C# (MonoBehaviour scripts)
+| Tool/Tech        | Description                                 |
+|------------------|---------------------------------------------|
+| Unity            | Game engine used to build the application   |
+| AR Foundation    | Cross-platform AR framework (ARCore / ARKit)|
+| C#               | Scripting and logic implementation          |
+| Unity Physics    | Used for realistic ball motion and collisions |
+| 3D Assets        | Hoop and basketball from free asset libraries |
 
-Unity Physics Engine
+---
 
-3D Assets (Free3D, Sketchfab, etc.)
-
-🔥 Highlights
-Real-time AR interaction for immersive gameplay
-
-Easy-to-use shooting mechanics based on gesture input
-
-Modular and scalable codebase (can be expanded with scoreboards, levels, timers)
-
-Cross-platform AR support using a unified AR Foundation interface
-
-🧪 Possible Extensions
-Add multiplayer support (using Photon or Mirror)
-
-Score tracking UI
-
-Difficulty levels (e.g. moving hoops, time limits)
-
-Leaderboards and achievements (Firebase or Unity Gaming Services)
-
-![1](https://github.com/user-attachments/assets/ae9439f8-3d68-4e69-941b-f82e70d79a0e)
-![2](https://github.com/user-attachments/assets/ed491ec7-3b6b-4c05-8e0f-bb74c24ed1ea)
-
+## 📸 Screenshots
 
 https://github.com/user-attachments/assets/b0862479-e968-4616-8a0f-b65951bf091b
+---
+
+## 🚀 Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/ar-basketball-unity.git
+
+
+
 
