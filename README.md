@@ -51,14 +51,6 @@ An interactive mobile **Augmented Reality (AR)** basketball game built with **Un
 https://github.com/user-attachments/assets/2d975993-773f-4643-a754-616d8f12f0b8
 
 
----
-
-## 🚀 Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ar-basketball-unity.git
-
 
 
 
