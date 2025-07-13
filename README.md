@@ -46,7 +46,11 @@ An interactive mobile **Augmented Reality (AR)** basketball game built with **Un
 
 ## 📸 Screenshots
 
-https://github.com/user-attachments/assets/b0862479-e968-4616-8a0f-b65951bf091b
+
+
+https://github.com/user-attachments/assets/2d975993-773f-4643-a754-616d8f12f0b8
+
+
 ---
 
 ## 🚀 Setup Instructions
